@@ -3,54 +3,15 @@ title: "Task Experience"
 published: true
 ---
 
-### 
-![](https://komarev.com/ghpvc/?username=ar-seven)
-<!--
-**Ar-Seven/Ar-Seven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ar-seven&show_icons=true&line_height=33&count_private=true&theme=algolia" a />
-</div>
-<div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-seven&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-seven&theme=algolia" />
 </div>
 
+Switching from the cyber security to the development took me some time. Instead of analysing and patching the programs others wrote, I had to do learn to program it. 
 
-## Console
-```console
-# prints "hello, world" to the screen
-~# echo Hello, World
-Hello, World
+The tasks were fun and good, it touched good areas of development. The CP tasks taught me it's the game of optimization or ya the better algorithms. The CLI task really helped in getting the idea of CLI programs. Flutter was the task that I enjoyed the most. It really made me wonder that making android apps was this easy, not so complicated. JS explorer was also good, lot of googling was enough to done the job, and knowing the java language was an advantage. And finally the cs50 classes were really nice, I went through every class very well. It had so many little things which were important that I missed during my journey till now. Really loved the class. And got a hang of C lang.
 
-# don't run this
-~# rm -rf --no-preserve-root /
-```
+I could have done it in less time. But I am having a severe health issue with my spine, its called degenerative disk disease. It started at sem 2, I cant sit properly for more that 30 or 40 min. I am using standing desk. As I was in treatment, I had to lay low for some weeks. Still I am not seeing a much of cure to it. It's not curable, gotta stand in class and while I work. I am planning to see a more qualified doctor to make it better. I had to make this better inorder to increase my efficiency in my developing career. And I will, it's gonna take some time. If I really dont care about this issue, maybe it will make things worser and has potential to affect my carrier, so I had to give more importance to health during last 3 months.
 
-## Css
-```css
-body {
-    font-size: 12pt;
-    background: #fff url(temp.png) top left no-repeat;
-}
-```
 
-## Yaml
-```yaml
----
-one: Mark McGwire
-two: Sammy Sosa
-three: Ken Griffey
-```
